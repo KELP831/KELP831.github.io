@@ -3,11 +3,11 @@
   <title>KELP 的小站</title>
   
   <subtitle>学习blog ^ ^</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://kelp831.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://kelp831.github.io/"/>
   <updated>2025-11-17T08:40:55.670Z</updated>
-  <id>http://example.com/</id>
+  <id>https://kelp831.github.io/</id>
   
   <author>
     <name>KELP</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/11/17/hello-world/"/>
-    <id>http://example.com/2025/11/17/hello-world/</id>
+    <link href="https://kelp831.github.io/2025/11/17/hello-world/"/>
+    <id>https://kelp831.github.io/2025/11/17/hello-world/</id>
     <published>2025-11-17T08:40:55.670Z</published>
     <updated>2025-11-17T08:40:55.670Z</updated>
     
